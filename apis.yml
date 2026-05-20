@@ -26,6 +26,8 @@ description: >-
   development, tvOS UI components, and broadcast calendar utilities. No public
   external developer API program was offered.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/viacom
   - url: https://github.com/ViacomInc
     name: Viacom Open Source Software on GitHub
     type: OpenSourceOrg
