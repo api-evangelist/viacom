@@ -49,6 +49,11 @@ description: >-
   development, tvOS UI components, and broadcast calendar utilities. No public
   external developer API program was offered.
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/skydance-media/
+    name: Skydance Media
+    x-relationship: acquired
+    x-evidence: "The combined entity, which included brands such as CBS, MTV, Nickelodeon, Comedy Central, BET, Paramount Pictures, Showtime, and Paramount+, was subsequently acquired by Skydance Media and ceased to exist as an independent public company in"
   - type: LinkedIn
     url: https://www.linkedin.com/company/viacom
   - url: https://github.com/ViacomInc
