@@ -1,7 +1,9 @@
 ---
 title: AI is coming for your job after all. These new ...
 url: https://www.facebook.com/marketwatch/posts/ai-is-coming-for-your-job-after-all-these-new-announcements-prove-it/1340876701245981/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Viacom" press release artificial intelligence'
 position: 5
 source: serpapi-google

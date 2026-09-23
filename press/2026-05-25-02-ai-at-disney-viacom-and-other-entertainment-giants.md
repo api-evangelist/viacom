@@ -1,7 +1,9 @@
 ---
 title: AI at Disney, Viacom, and Other Entertainment Giants
 url: https://emerj.com/ai-at-disney-viacom-and-other-entertainment-giants/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Viacom" press release artificial intelligence'
 position: 2
 source: serpapi-google

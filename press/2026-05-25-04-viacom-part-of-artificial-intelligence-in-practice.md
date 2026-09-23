@@ -1,7 +1,9 @@
 ---
 title: Viacom | part of Artificial Intelligence in Practice
 url: https://ieeexplore.ieee.org/document/10950732/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Viacom" press release artificial intelligence'
 position: 4
 source: serpapi-google
